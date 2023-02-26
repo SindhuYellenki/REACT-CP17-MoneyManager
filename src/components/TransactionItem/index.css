@@ -1,0 +1,13 @@
+.listItem {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+.delete {
+  width: 20px;
+  height: 20px;
+}
+.item {
+  margin: 10px;
+  font-size: 18px;
+}
